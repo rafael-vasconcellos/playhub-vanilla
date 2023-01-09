@@ -1,0 +1,162 @@
+main > section > p {
+    margin-bottom: 10px;
+    padding-left: 15px;
+}
+
+main > section {
+    position: relative;
+    margin: 25px 0;
+}
+
+
+.c-button {
+    position: absolute;
+    height: 192px;
+    width: 50px;
+    background-color: rgb(0, 0, 0, .7);
+    cursor: pointer;
+    top: 28px;
+}
+
+.c-button::before, .c-button::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 20px;
+    border: 1px solid white;
+    z-index: 999;
+    right: 12px;
+}
+
+.c-btn1 {
+    left: 0;
+    display: none;
+}
+
+.c-btn1::before {
+    transform: rotateZ(135deg);
+    top: 42%;
+}
+
+.c-btn1::after {
+    transform: rotateZ(-135deg);
+    top: 50%;
+}
+
+.c-btn2 {
+    right: 0;
+}
+
+.c-btn2::before {
+    transform: rotateZ(45deg);
+    top: 42%;
+}
+
+.c-btn2::after {
+    transform: rotateZ(-45deg);
+    top: 50%;
+}
+
+.carrosel_itens {        
+    width: 100%;
+    height: 100%;
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    background-color: transparent;
+    scroll-snap-type: x mandatory ;
+    /*pointer-events: none;*/
+    scroll-snap-align: start;
+}
+
+.carrosel_itens::-webkit-scrollbar {
+   display: none;
+}
+
+.inputs {
+    position: absolute;
+    right: 60px;
+    top: 0;
+    margin-bottom: 10px;
+}
+
+.inputs > input[type='radio'] {
+    appearance: none;
+    margin: 0;
+    width: 17px;
+    height: 3px;
+    margin-left: 1px;
+    background-color: #4d4d4d;
+}
+
+.inputs > input[type='radio']:checked {
+    background-color: #aaa;
+}
+
+.inputs > input[type='radio'], .c-button {
+    opacity: 0;
+}
+
+section:hover > .inputs > input[type='radio'], section:hover > .c-button {
+    opacity: 100;
+}
+
+
+
+
+
+/* top 10 */
+.top10 > .carrosel_itens > div {
+    display: flex;
+    align-items: center;
+    margin-right: 35px;
+}
+
+.top10 > .carrosel_itens > div > span {
+    font-size: 282px;
+}
+
+.top10 > .c-button {
+    height: 100%;
+}
+
+.top10 > .c-btn2::after, .top10 > .c-btn1::after {
+    top: 45.5%;
+}
+
+
+
+
+
+
+
+/* skeleton loading */
+main > section:nth-child(2) > div {
+    width: 310px;
+    height: 191px;
+    background-color: #4F4F4F;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    overflow-x: hidden;
+}
+
+main > section:nth-child(2) > div:nth-child(1) {
+    width: 250px;
+    height: 20px;
+    display: block;
+}
+
+main > section:nth-child(2) > div::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    background: linear-gradient(to right, transparent, rgb(128, 128, 128, .5), transparent);
+    filter: blur(10px);
+    animation: loading 1.5s linear infinite;
+    transform: translateX(-100%);
+}

@@ -1,0 +1,107 @@
+body {
+    background-color: black;
+    margin: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+ul {
+    list-style: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+}
+
+nav {
+    width: 45px;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    background-color: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+nav ul li > * {
+    width: 20px; height: 20px;
+    padding: 25px 6px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.selected {
+    border-left: 2px solid red;
+}
+
+.profile {
+    position: absolute;
+    right: 55px;
+    top: 15px;
+    z-index: 999;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.profile > div {
+    width: 42px; height: 42px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+    background-image: url('../assets/profile.jpg');
+    background-size: contain;
+}
+
+.profile > div::after, .profile > div::before {
+    content: '';
+    display: block;
+    width: 10px;
+    border: 1px solid white;
+    position: absolute;
+    top: 50%;
+}
+
+.profile > div::after {
+    right: -50%;
+    transform: rotateZ(-315deg);
+}
+
+.profile > div::before {
+    right: -70%;
+    transform: rotateZ(315deg);
+}
+
+main {
+    margin-left: 45px;
+}
+
+@keyframes display {
+    0% {
+        transform: translateY(5%);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 100;
+    }
+}
+
+@keyframes loading {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+@keyframes loading2 {
+    from {background-color: #4F4F4F;}
+    to {background-color: #A9A9A9;}
+}
+

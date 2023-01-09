@@ -1,0 +1,48 @@
+header {
+    width: 100%;
+    height: 100vh;
+    background-color: #4F4F4F;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+    position: relative;
+    overflow-x: hidden;
+    animation: loading2 0.9s linear infinite alternate;
+}
+
+.description {
+    width: 525px;
+    position: absolute;
+    left: 3%;
+    bottom: 20%;
+    animation: display 1.3s linear forwards;
+}
+
+main > header > .description button {
+    padding: 15px 25px;
+    border-radius: 10px;
+    border: 0;
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin: 7px 10px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.description > h3 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.description > span {
+    margin-bottom: 17px;
+    display: inline-block;
+}
+
+@media screen and (max-width:595px) {
+    .description {
+        width: calc(100vw - 80px);
+    }
+}
