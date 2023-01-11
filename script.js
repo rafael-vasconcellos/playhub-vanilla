@@ -35,7 +35,7 @@ async function display_teaser() {
 
     random() ; resetAnim(header.children[0])
 
-    header.style.backgroundImage = `url(${target.large_banner.replaceAll(' ', '%20')})`
+    header.style.backgroundImage = `url(${target.large_banner.replaceAll(' ', '%20').toLowerCase()})`
     header.style.animationPlayState = 'paused'
     header.children[0].innerHTML = `
     <h3><img src=assets/logo.png height="32">${target.tipo}</h3>
