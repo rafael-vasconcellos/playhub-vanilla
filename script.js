@@ -139,7 +139,7 @@ function display_tops(key) {
         section.children[1].innerHTML += `
         <div>
             <span>${relation.indexOf(indice)+1}</span>
-            <img src="${indice.top10}" width="284" height="398">
+            <img src="${indice.top10.toLowerCase()}" width="284" height="398">
         </div>
         `
     }
