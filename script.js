@@ -111,7 +111,7 @@ function display_sections(key) {
 
     let random_sorted = content.filter(relation.func).sort(() => {  return Math.round(Math.random()*-1)  })
     for (let indice of random_sorted) {
-        section.children[2].innerHTML += `<img src="${indice.banner}">`
+        section.children[2].innerHTML += `<img src="${indice.banner.toLowerCase()}">`
     }
 
     
