@@ -6,14 +6,18 @@ export default class GetShowInfoController {
     handle(req, res) { 
         const schema = ['nome', 'genero', 'clima']
 
-        for (let indice of Object.keys(req.query)) {
-            if (!schema.includes(indice)) {return res.send('Insert valid query parameters')}
-        }
+        try {
+            for (let indice of Object.keys(req.query)) {
+                if (!schema.includes(indice)) { res.send('Insert valid query parameters') ; return false }
+            }
 
-        if ( (req.query.nome === undefined && req.query.genero === undefined && req.query.clima === undefined) || Object.keys(req.query).length === 0 ) {
-            return res.send('Insert valid query parameters')
-        }
+            if ( (req.query.nome === undefined && req.query.genero === undefined && req.query.clima === undefined) || Object.keys(req.query).length === 0 ) {
+                res.send('Insert valid query parameters') ;  return false
+            }
 
-        return this.getShowInfo.execute(req.query)
+            return this.getShowInfo.execute(req.query)
+
+        } catch(e) { throw new TypeError(e) }
+
     }
 }

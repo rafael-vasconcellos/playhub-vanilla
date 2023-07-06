@@ -1,4 +1,3 @@
-import content from "./content"
 import { getShowInfo, getShowInfoController } from "./useCases/GetShowInfo"
 import { listCategories, listCategoriesController } from "./useCases/ListCategories"
 const express = require('express')
@@ -22,5 +21,4 @@ app.get('/api/:var', (req, res) => {
 
 app.listen(3000);
 console.log('Rodando');
-console.log(content.length)
 
