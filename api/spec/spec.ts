@@ -15,6 +15,12 @@ it ('should return false', () => {
     expect(listCategoriesController.handle(  {params: {var: 'dada'}}, {send: ()=>{}}  )).equal(false)
 } )
 
+it('should throw', () => {
+    expect(  () => listCategoriesController.handle({}, {})  ).toThrow()
+} );
 
-  
+it('should throw', () => {
+    expect(  () => getShowInfoController.handle({}, {})  ).toThrow()
+} );
+
 

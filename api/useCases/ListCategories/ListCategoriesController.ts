@@ -10,6 +10,6 @@ export default class ListCategoriesController {
 
             return this.listCategories.execute(req.params.var)
 
-        } catch(e) { console.error(e) }
+        } catch(e) { throw new TypeError(e) }
     }
 }
