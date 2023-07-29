@@ -1,9 +1,9 @@
-//import { Request, Response } from 'express'
-import GetShowInfo from "./GetShowInfo"
+import { Request, Response } from 'express'
+import GetProductionInfo from "./GetProductionInfo"
 
 export default class GetShowInfoController {
-    constructor(private getShowInfo: GetShowInfo) {}
-    handle(req, res) { 
+    constructor(private getShowInfo: GetProductionInfo) {}
+    handle( req: Request, res: Response ) { 
         const schema = ['nome', 'genero', 'clima']
 
         try {
@@ -14,6 +14,8 @@ export default class GetShowInfoController {
             if ( (req.query.nome === undefined && req.query.genero === undefined && req.query.clima === undefined) || Object.keys(req.query).length === 0 ) {
                 res.send('Insert valid query parameters') ;  return false
             }
+
+            if ( Object.values(req.query).length <= 0 ) {res.send('Insert valid query parameters') ;  return false}
 
             return this.getShowInfo.execute(req.query)
 

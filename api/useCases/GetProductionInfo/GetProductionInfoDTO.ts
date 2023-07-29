@@ -1,4 +1,4 @@
-export type GetShowInfoDTO = {
+export type GetProductionInfoDTO = {
     nome?: string,
     genero?: string,
     clima?: string

@@ -1,4 +1,4 @@
-import { getShowInfo, getShowInfoController } from "../useCases/GetShowInfo"
+import { getShowInfo, getShowInfoController } from "../useCases/GetProductionInfo"
 import { listCategories, listCategoriesController } from "../useCases/ListCategories"
 import { it, expect, assert } from 'vitest'
 

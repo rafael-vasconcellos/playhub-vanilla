@@ -1,6 +1,6 @@
 import { ShowInfo } from "../entities/showInfo"
 
-export type IShowInfoRepository = {
+export type IProductionInfoRepository = {
     search(query:string, data:ShowInfo[]): ShowInfo[],
 }
 

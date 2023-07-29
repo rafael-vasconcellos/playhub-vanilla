@@ -1,7 +1,7 @@
 import { ShowInfo } from '../entities/showInfo'
 
-export default function ShowInfoRepository() {
-    this.search = function(query:string, data:ShowInfo[]) {
+export default function ProductionInfoRepository() {
+    this.search = function( query:string, data:ShowInfo[] ) {
         let target = data.filter((indice:ShowInfo) => { return Object.values(indice).some((index) => {
             if (typeof index === 'string') {return index.toLowerCase().includes(query.toLocaleLowerCase())}
             else if (typeof index === 'object') {

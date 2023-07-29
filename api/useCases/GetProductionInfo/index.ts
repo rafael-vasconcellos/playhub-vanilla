@@ -1,8 +1,8 @@
-import ShowInfoRepository from '../../repositories/ShowInfoRepo'
-import GetShowInfo from "./GetShowInfo";
+import ProductionInfoRepository from '../../repositories/ProductionInfoRepo'
+import GetShowInfo from "./GetProductionInfo";
 import GetShowInfoController from "./GetShowInfoController";
 
-const showInfoRepository = new ShowInfoRepository()
+const showInfoRepository = new ProductionInfoRepository()
 const getShowInfo = new GetShowInfo(showInfoRepository)
 const getShowInfoController = new GetShowInfoController(getShowInfo)
 
