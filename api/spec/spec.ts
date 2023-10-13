@@ -1,4 +1,4 @@
-import { getShowInfo, getShowInfoController } from "../useCases/GetProductionInfo"
+import { getShowInfo, getProductionInfoController } from "../useCases/GetProductionInfo"
 import { listCategories, listCategoriesController } from "../useCases/ListCategories"
 import { it, expect, assert } from 'vitest'
 
@@ -8,7 +8,7 @@ it('should return false', () => {
 } )
 
 it ('should return false', () => {
-    expect(getShowInfoController.handle(  {query: {nome: 'warrior', dada: 'dada'}}, {send: ()=>{}}  )).equal(false)
+    expect(getProductionInfoController.handle(  {query: {nome: 'warrior', dada: 'dada'}}, {send: ()=>{}}  )).equal(false)
 } )
 
 it ('should return false', () => {
@@ -20,7 +20,7 @@ it('should throw', () => {
 } );
 
 it('should throw', () => {
-    expect(  () => getShowInfoController.handle({}, {})  ).toThrow()
+    expect(  () => getProductionInfoController.handle({}, {})  ).toThrow()
 } );
 
 

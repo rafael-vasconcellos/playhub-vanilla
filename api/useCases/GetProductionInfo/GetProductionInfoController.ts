@@ -1,9 +1,9 @@
-import { Request, Response } from 'express'
+//import { Request, Response } from 'express'
 import GetProductionInfo from "./GetProductionInfo"
 
-export default class GetShowInfoController {
-    constructor(private getShowInfo: GetProductionInfo) {}
-    handle( req: Request, res: Response ) { 
+export default class GetProductionInfoController {
+    constructor(private getProductionInfo: GetProductionInfo) {}
+    handle( req, res ) { 
         const schema = ['nome', 'genero', 'clima']
 
         try {
@@ -17,7 +17,7 @@ export default class GetShowInfoController {
 
             if ( Object.values(req.query).length <= 0 ) {res.send('Insert valid query parameters') ;  return false}
 
-            return this.getShowInfo.execute(req.query)
+            return this.getProductionInfo.execute(req.query)
 
         } catch(e) { throw new TypeError(e) }
 

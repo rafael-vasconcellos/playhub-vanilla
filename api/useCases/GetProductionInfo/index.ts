@@ -1,9 +1,9 @@
 import ProductionInfoRepository from '../../repositories/ProductionInfoRepo'
 import GetShowInfo from "./GetProductionInfo";
-import GetShowInfoController from "./GetShowInfoController";
+import GetProductionInfoController from "./GetProductionInfoController";
 
 const showInfoRepository = new ProductionInfoRepository()
 const getShowInfo = new GetShowInfo(showInfoRepository)
-const getShowInfoController = new GetShowInfoController(getShowInfo)
+const getProductionInfoController = new GetProductionInfoController(getShowInfo)
 
-export { getShowInfo, getShowInfoController }
+export { getShowInfo, getProductionInfoController }
