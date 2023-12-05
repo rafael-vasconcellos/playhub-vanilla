@@ -6,7 +6,9 @@
   "scripts": {
     "start:dev": "node --watch --no-warnings api_legacy.js",
     "dev": "tsnd --transpile-only --respawn --ignore-watch node_modules api.ts",
-    "test": "vitest"
+    "test": "vitest",
+    "build": "tsc",
+    "start": "node api.js"
   },
   "keywords": [],
   "author": "",
