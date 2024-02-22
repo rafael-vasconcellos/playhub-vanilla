@@ -1,13 +1,13 @@
-import { getShowInfo, getShowInfoController } from "./useCases/GetProductionInfo"
+import { getShowInfo, getProductionInfoController } from "./useCases/GetProductionInfo"
 import { listCategories, listCategoriesController } from "./useCases/ListCategories"
-const express = require('express')
+import express from 'express'
 const app = express()
 
 
 app.use(express.json())
 
 app.route('/api').get( (req, res) => {
-    const result = getShowInfoController.handle(req, res)
+    const result = getProductionInfoController.handle(req, res)
     if (result) {res.send(result)}
 
 } )
