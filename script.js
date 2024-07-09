@@ -28,8 +28,9 @@ setTimeout( () => {
 
 let arr=[]
 
-async function display_teaser() {
+async function display_teaser() { 
     let target
+    const content = await request
     let data = content.filter(indice => {return indice.large_banner})
     let header = document.querySelector('header')
     let random = () => {
@@ -57,8 +58,9 @@ async function display_teaser() {
 
 
 
-function display_sections(key) {
+async function display_sections(key) {
     let relation ; let count = Math.round(Math.random()*100)
+    const content = await request
 
     if (key === 'random') { 
         let random = () => { 
@@ -126,8 +128,9 @@ function display_sections(key) {
 }
 
 
-function display_tops(key) {
+async function display_tops(key) {
 
+    const content = await request
     let relation = content.filter(
         (index) => {return top10_today.brasil[key].some(i => {  return i.toLowerCase()===index.nome.toLowerCase()  })}
     )
