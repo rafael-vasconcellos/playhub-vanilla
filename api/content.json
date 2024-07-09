@@ -1,0 +1,1584 @@
+[
+    {
+        "tipo": "série",
+        "nome": "1899",
+        "descrição": "Dos mesmos criadores de \"Dark\", um transatlântico descobre um navio afundado. Com ele, emergem os segredos dos passageiros e tripulantes. Estrelado por Miguel Bernardeau (\"Elite\").",
+        "banner": "banners/1899.jpg",
+        "large_banner": "banners/1899_large.webp",
+        "top10": "banners/top10/1899.jpg",
+        "genero": [
+            "Realidade Alternativa",
+            "Sinistros"
+        ],
+        "style": [
+            ""
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Enola Holmes",
+        "descrição": "",
+        "banner": "banners/Enola Holmes.jpg",
+        "genero": [
+            "Mistério",
+            "Filmes para a Familia",
+            "Obras de época"
+        ],
+        "style": [
+            "Espirituosos",
+            "Suspense no ar",
+            "Empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Amor e Monstros",
+        "descrição": "",
+        "banner": "banners/Amor e Monstros.jpg",
+        "genero": [
+            "Filmes de ficção científica",
+            "Filmes para a familia",
+            "Filmes teen"
+        ],
+        "style": [
+            "Empolgantes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "O Projeto Adam",
+        "descrição": "",
+        "banner": "banners/O Projeto Adam.jpg",
+        "genero": [
+            "Filmes de ficção científica",
+            "Filmes para a familia",
+            "Ação",
+            "Aventura"
+        ],
+        "style": [
+            "Espirituosos",
+            "Alto astral",
+            "Empolgantes"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "Jumanji, bem-vindo à selva",
+        "descrição": "",
+        "banner": "banners/Jumanji, bem-vindo à selva.webp",
+        "genero": [
+            "Filmes de ficção científica",
+            "Filmes baseados em livro",
+            "Filmes teen"
+        ],
+        "style": [
+            "Adrenalina pura",
+            "Empolgantes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "As tartarugas ninja, fora das sombras",
+        "descrição": "",
+        "banner": "banners/As tartarugas ninja, fora das sombras.webp",
+        "genero": [
+            "Filmes de ficção científica",
+            "Filmes para a familia",
+            "Ação",
+            "Aventura"
+        ],
+        "style": [
+            "Empolgantes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "De volta para o futuro 3",
+        "descrição": "",
+        "banner": "banners/De volta para o futuro 3.webp",
+        "genero": [
+            "Filmes de ficção científica",
+            "Filmes para a familia",
+            "Faraoestes"
+        ],
+        "style": [
+            "Alto astral",
+            "Empolgantes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "Enola holmes 2",
+        "descrição": "",
+        "banner": "banners/Enola holmes 2.jpg",
+        "genero": [
+            "Mistério",
+            "Filmes para a familia",
+            "Filmes sobre questões sociais"
+        ],
+        "style": [
+            "Espirituosos",
+            "Suspense no ar",
+            "Empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Pegando fogo",
+        "descrição": "",
+        "banner": "banners/Pegando fogo.webp",
+        "genero": [
+            "Dramas"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Inspirador"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "O maior milagre",
+        "descrição": "",
+        "banner": "banners/O maior milagre.webp",
+        "genero": [
+            "Mexicano",
+            "Dramas",
+            "Fé e espiritualidade"
+        ],
+        "style": [
+            "Aqui tudo é possível"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "Enfrentando a barra",
+        "descrição": "",
+        "banner": "banners/Enfrentando a barra.webp",
+        "genero": [
+            "Australiano",
+            "Filmes para a familia",
+            "Filmes para toda a familia"
+        ],
+        "style": [
+            "Aqui tudo é possível"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "BREAK, o poder da dança",
+        "descrição": "",
+        "banner": "banners/BREAK, o poder da dança.jpg",
+        "genero": [
+            "Comédias românticas",
+            "Comédia",
+            "Francês"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Encantador",
+            "Comoventes"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "Na batida do coração",
+        "descrição": "",
+        "banner": "banners/Na batida do coração.jpg",
+        "genero": [
+            "Dramas",
+            "Filmes teen",
+            "Alemão"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Românticos"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "Felicidade por um fio",
+        "descrição": "",
+        "banner": "banners/Felicidade por um fio.jpg",
+        "genero": [
+            "Comédias românticas",
+            "Comédia",
+            "Filmes baseados em livros"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Sentimentais",
+            "Românticos"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "100 metros",
+        "descrição": "",
+        "banner": "banners/100 metros.webp",
+        "genero": [
+            "Espanhol",
+            "Filmes baseados na vida real",
+            "Dramas"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Intimistas"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "A ultima nota",
+        "descrição": "",
+        "banner": "banners/A ultima nota.webp",
+        "genero": [
+            "Música",
+            "Dramas"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Intimista"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "Soul suffer, coragem de viver",
+        "descrição": "",
+        "banner": "banners/Soul suffer, coragem de viver.webp",
+        "genero": [
+            "Filmes baseados na vida real",
+            "Filmes baseados em livros",
+            "Filmes para a familia"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Alto astral"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "KARDEC",
+        "descrição": "",
+        "banner": "banners/KARDEC.webp",
+        "genero": [
+            "Brasileiro",
+            "Filmes baseados na vida real",
+            "Obras de época"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Sentimentais",
+            "Comoventes"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "Deus não está morto",
+        "descrição": "",
+        "banner": "banners/Deus não está morto.webp",
+        "genero": [
+            "Dramas",
+            "Fé e espiritualidade"
+        ],
+        "style": [
+            "Aqui tudo é possível"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "Toscana",
+        "descrição": "",
+        "banner": "banners/Toscana.jpg",
+        "genero": [
+            "Dinamarquês",
+            "Dramas",
+            "Filmes românticos"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Encantador",
+            "Alto astral"
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "O resgate de ruby",
+        "descrição": "",
+        "banner": "banners/O resgate de ruby.jpg",
+        "genero": [
+            "Filmes baseados na vida real",
+            "Filmes baseados em livros",
+            "Filmes para a familia"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Alto astral"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Sim senhor",
+        "descrição": "",
+        "banner": "banners/Sim senhor.webp",
+        "genero": [
+            "Comédias românticas",
+            "Filmes baseados em livros",
+            "Comédia"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Encantador"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "Quarentão",
+        "descrição": "",
+        "banner": "banners/Quarentão.jpg",
+        "genero": [
+            "Mexicano",
+            "Comédia",
+            "Dramas"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Alto astral"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Kart nervoso",
+        "descrição": "",
+        "banner": "banners/Kart nervoso.jpg",
+        "genero": [
+            "Australiano",
+            "Filmes para a familia",
+            "Filmes para toda a familia"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Alto astral",
+            "Empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Em busca de um lar",
+        "descrição": "",
+        "banner": "banners/Em busca de um lar.webp",
+        "genero": [
+            "Dramas",
+            "Melodramáticos",
+            "Filmes independentes"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Emoções contraditórias",
+            "Comoventes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "Karate kid",
+        "descrição": "",
+        "banner": "banners/Karate kid.webp",
+        "genero": [
+            "Filmes de artes marciais",
+            "Filmes para a familia",
+            "Filmes para toda a familia"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Alto astral",
+            "Empolgantes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "Recuperando a esperança",
+        "descrição": "",
+        "banner": "banners/Recuperando a esperança.webp",
+        "genero": [
+            "Dramas",
+            "Filmes sobre esportes",
+            "Fé e espiritualidade"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Emoções contraditórias"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "filme",
+        "nome": "Andar, montar, rodeio, a virada de amberley",
+        "descrição": "",
+        "banner": "banners/Andar, montar, rodeio, a virada de amberley.jpg",
+        "genero": [
+            "Filmes para a familia",
+            "Filmes baseados na vida real",
+            "Dramas"
+        ],
+        "style": [
+            "Aqui tudo é possível",
+            "Alto astral",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "My secret romance",
+        "descrição": "",
+        "banner": "banners/My secret romance.webp",
+        "genero": [
+            "Coreano",
+            "Séries de comédia romântica",
+            "Comédias para a TV"
+        ],
+        "style": [
+            "Românticos",
+            "Encantador"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "On my block",
+        "descrição": "",
+        "banner": "banners/On my block.jpg",
+        "genero": [
+            "Dramas românticos para a tv",
+            "Séries de comédia romântica",
+            "Séries teen"
+        ],
+        "style": [
+            "Românticos",
+            "Espirituosos",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Betty em nova york",
+        "descrição": "",
+        "banner": "banners/Betty em nova york.webp",
+        "genero": [
+            "Mexicano",
+            "Séries de comédia romântica",
+            "Comédias para a TV"
+        ],
+        "style": [
+            "Românticos"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Pousando no amor",
+        "descrição": "",
+        "banner": "banners/Pousando no amor.jpg",
+        "genero": [
+            "Coreano",
+            "Dramas românticos para a tv",
+            "Séries de comédia romântica"
+        ],
+        "style": [
+            "Românticos",
+            "Para suspirar",
+            "Encantador"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "100 dias para enamorarmos",
+        "descrição": "",
+        "banner": "banners/100 dias para enamorarmos.webp",
+        "genero": [
+            "Série dos EUA",
+            "Séries de comédia romântica",
+            "Comédias para a TV"
+        ],
+        "style": [
+            "Românticos",
+            "Comoventes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Ginny e georgia",
+        "descrição": "",
+        "banner": "banners/Ginny e georgia.jpg",
+        "genero": [
+            "Dramas românticos para a tv",
+            "Séries de comédia romântica",
+            "Séries teen"
+        ],
+        "style": [
+            "Escandalosos",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Solteiros ilhados e desesperados",
+        "descrição": "Em uma ilha deserta, solteiros e solteiras precisam encontrar o amor verdadeiro ― já que só os casais podem sair e desfrutar um encontro romântico.",
+        "banner": "banners/Solteiros ilhados e desesperados.jpg",
+        "large_banner": "banners/Solteiros ilhados e desesperados_large.webp",
+        "genero": [
+            "Coreano",
+            "Reality shows",
+            "Reality show de competição"
+        ],
+        "style": [
+            "Românticos",
+            "Intimista"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Paixões ardentes",
+        "descrição": "",
+        "banner": "banners/Paixões ardentes.webp",
+        "genero": [
+            "Colombiano",
+            "Dramas românticos para a TV",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Românticos",
+            "Comoventes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "O ultimo guardião",
+        "descrição": "",
+        "banner": "banners/O ultimo guardião.jpg",
+        "genero": [
+            "Turco",
+            "Séries de fantasia",
+            "Séries baseadas em livros"
+        ],
+        "style": [
+            "Românticos",
+            "Empolgantes",
+            "Suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Sex life",
+        "descrição": "Nesta série, a vida de uma mãe de família vira de cabeça para baixo quando o marido descobre um diário detalhando o passado sexual dela.",
+        "banner": "banners/Sex life.jpg",
+        "large_banner": "banners/sex life_large.webp",
+        "genero": [
+            "Dramas românticos para a TV",
+            "Séries baseadas em livros",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Calientes",
+            "Intimista"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Primeira morte",
+        "descrição": "",
+        "banner": "banners/Primeira morte.jpg",
+        "genero": [
+            "Séries de fantasia",
+            "Dramas românticos para a TV",
+            "Séries baseadas em livros"
+        ],
+        "style": [
+            "Românticos",
+            "Suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Fogo ardente",
+        "descrição": "",
+        "banner": "banners/Fogo ardente.jpg",
+        "genero": [
+            "Mexicano",
+            "Séries dramáticas",
+            "Ação",
+            "Aventura",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Calientes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Gotham",
+        "descrição": "",
+        "banner": "banners/Gotham.webp",
+        "genero": [
+            "Séries policiais",
+            "Séries baseadas em HQ",
+            "Séries dramáticas",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Empolgantes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Arrow",
+        "descrição": "",
+        "banner": "banners/Arrow.webp",
+        "genero": [
+            "Séries policiais",
+            "Séries baseadas em HQ",
+            "Séries dos EUA",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Empolgantes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "O ultimo dragão",
+        "descrição": "Miguel tenta se livrar dos seus potenciais rivais no leilão do protótipo Grace. Jorge começa a trabalhar com Kenia e Magrelo. Chisca planeja sua vingança contra Valentín.",
+        "banner": "banners/O ultimo dragão.jpg",
+        "large_banner": "banners/O ultimo dragão_large.webp",
+        "genero": [
+            "Mexicano",
+            "Séries policiais",
+            "Séries dramáticas",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Respire",
+        "descrição": "",
+        "banner": "banners/Respire.jpg",
+        "genero": [
+            "Suspense para a TV",
+            "Séries dramáticas",
+            "Séries dos EUA",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Sombrios",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Titãs",
+        "descrição": "",
+        "banner": "banners/Titãs.jpg",
+        "genero": [
+            "Séries policiais",
+            "Séries de ficção científica",
+            "Séries baseadas em HQ",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Realistas",
+            "Sombrios"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "My name",
+        "descrição": "",
+        "banner": "banners/My name.jpg",
+        "genero": [
+            "Coreano",
+            "Séries policiais",
+            "Suspense para a TV",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Sombrios",
+            "Suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Outer banks",
+        "descrição": "",
+        "banner": "banners/Outer banks.jpg",
+        "genero": [
+            "Séries teen",
+            "Séries dramáticas",
+            "Séries dos EUA",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Suspense no ar",
+            "Empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "The 100",
+        "descrição": "",
+        "banner": "banners/The 100.webp",
+        "genero": [
+            "Séries de ficção científica",
+            "Programas sobre política",
+            "Séries baseadas em livros",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Violentos"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "The shannara chronicles",
+        "descrição": "",
+        "banner": "banners/The shannara chronicles.webp",
+        "genero": [
+            "Séries de fantasia",
+            "Séries baseadas em livros",
+            "Séries dramáticas",
+            "Ação e aventura"
+        ],
+        "style": [
+            ""
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Van hellsing",
+        "descrição": "",
+        "banner": "banners/Van hellsing.jpg",
+        "genero": [
+            "Canadenses",
+            "Séries de fantasia",
+            "Séries baseadas em HQ",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Violentos",
+            "Sombrios",
+            "Empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Perdidos no espaço",
+        "descrição": "Após um pouso forçado em um planeta desconhecido, a família Robinson tenta sobreviver aos perigos que encontra neste novo mundo.",
+        "banner": "banners/Perdidos no espaço.jpg",
+        "large_banner": "banners/Perdidos no espaço_large.webp",
+        "genero": [
+            "Séries para toda a familia",
+            "Séries dramáticas",
+            "Séries dos EUA",
+            "Ação e aventura"
+        ],
+        "style": [
+            "Suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Alba",
+        "descrição": "",
+        "banner": "banners/Alba.jpg",
+        "genero": [
+            "Espanhol",
+            "Séries dramáticas sobre questões sociais",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Anne with an E",
+        "descrição": "",
+        "banner": "banners/Anne with an E.jpg",
+        "genero": [
+            "Canadense",
+            "Séries para a familia toda",
+            "Séries baseadas em livros"
+        ],
+        "style": [
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Baby",
+        "descrição": "",
+        "banner": "banners/Baby.jpg",
+        "genero": [
+            "Italiano",
+            "Séries teen",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Comoventes",
+            "Intimista"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "13 Reasons why",
+        "descrição": "",
+        "banner": "banners/13 Reasons why.jpg",
+        "genero": [
+            "Séries de mistério",
+            "Séries baseadas em livros",
+            "Séries teen"
+        ],
+        "style": [
+            "Sombrios",
+            "Suspense no ar",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Coisa mais linda",
+        "descrição": "",
+        "banner": "banners/Coisa mais linda.jpg",
+        "genero": [
+            "Brasileiro",
+            "Música",
+            "Dramas românticos para TV"
+        ],
+        "style": [
+            "Sentimentais",
+            "Aqui tudo é possível"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "O gambito da rainha",
+        "descrição": "",
+        "banner": "banners/O gambito da rainha.jpg",
+        "genero": [
+            "Séries baseadas em livros",
+            "Séries dramáticas sobre questões sociais",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Complexos",
+            "Intimista",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Intersection",
+        "descrição": "",
+        "banner": "banners/Intersection.webp",
+        "genero": [
+            "Turco",
+            "Dramas românticos para TV",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Comoventes",
+            "Românticos"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Valéria",
+        "descrição": "",
+        "banner": "banners/Valéria.jpg",
+        "genero": [
+            "Espanhol",
+            "Dramas românticos para TV",
+            "Séries de comédia romântica"
+        ],
+        "style": [
+            "Paar suspirar",
+            "Calientes",
+            "Espirituosos"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Away",
+        "descrição": "A astronauta Emma Green comanda uma perigosa expedição rumo a Marte e deixa para trás o marido e a filha por três anos.",
+        "banner": "banners/Away.jpg",
+        "large_banner": "banners/Away_large.webp",
+        "genero": [
+            "Séries de ficção científica",
+            "Dramas românticos para TV",
+            "Séries baseadas em livros"
+        ],
+        "style": [
+            "Comoventes",
+            "Empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Heartland",
+        "descrição": "",
+        "banner": "banners/Heartland.webp",
+        "genero": [
+            "Canadense",
+            "Séries baseadas em livros",
+            "Séries para a familia toda"
+        ],
+        "style": [
+            "Sentimetais",
+            "Comoventes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Amor ocasional",
+        "descrição": "",
+        "banner": "banners/Amor ocasional.jpg",
+        "genero": [
+            "Francês",
+            "Séries de comédia romântica",
+            "Comédias para a TV"
+        ],
+        "style": [
+            "Românticos",
+            "Alto astral"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Sex education",
+        "descrição": "",
+        "banner": "banners/Sex education.jpg",
+        "genero": [
+            "Britânico",
+            "Séries teen",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Apimentados",
+            "Irreverentes",
+            "Emoções contraditórias"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Superstore",
+        "descrição": "",
+        "banner": "banners/Superstore.webp",
+        "genero": [
+            "Sitcoms",
+            "Comédias para a TV",
+            "Séries dos EUA"
+        ],
+        "style": [
+            "Irreverentes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "The good place",
+        "descrição": "",
+        "banner": "banners/The good place.jpg",
+        "genero": [
+            "Sitcoms",
+            "Comédias para a TV",
+            "Séries dos EUA"
+        ],
+        "style": [
+            "Espirituosos",
+            "Peculiares"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "The ranch",
+        "descrição": "",
+        "banner": "banners/The ranch.jpg",
+        "genero": [
+            "Sitcoms",
+            "Comédias para a TV",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Irreverentes",
+            "Emoções contraditórias",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Sempre bruxa",
+        "descrição": "",
+        "banner": "banners/Sempre bruxa.jpg",
+        "genero": [
+            "Colombiano",
+            "Séries de fantasia",
+            "Séries baseadas em livros",
+            "Comédia romântica"
+        ],
+        "style": [
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "The bold type",
+        "descrição": "",
+        "banner": "banners/The bold type.webp",
+        "genero": [
+            "Séries dramáticas",
+            "Comédias para a TV",
+            "Séries dos EUA"
+        ],
+        "style": [
+            "Espirituosos",
+            "Intimista"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Familia em concerto",
+        "descrição": "",
+        "banner": "banners/Familia em concerto.jpg",
+        "genero": [
+            "Música",
+            "Sitcoms",
+            "Séries para a familia toda"
+        ],
+        "style": [
+            "Alto astral"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Maldivas",
+        "descrição": "",
+        "banner": "banners/Maldivas.jpg",
+        "genero": [
+            "Brasileiro",
+            "Séries de mistério",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Irreverentes",
+            "Suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Você",
+        "descrição": "",
+        "banner": "banners/Você.jpg",
+        "genero": [
+            "Séries baseadas em livros",
+            "Suspense para TV",
+            "Séries dramáticas"
+        ],
+        "style": [
+            "Sombrios"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Bridgerton",
+        "descrição": "",
+        "banner": "banners/Bridgerton.jpg",
+        "genero": [
+            "Dramas românticos para TV",
+            "Séries baseadas em livros",
+            "Obras de época"
+        ],
+        "style": [
+            "Para suspirar",
+            "Espirituosos",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "O date perfeito",
+        "descrição": "",
+        "banner": "banners/O date perfeito.jpg",
+        "genero": [
+            "Comédias românticas",
+            "Filmes teen",
+            "Comédia"
+        ],
+        "style": [
+            "Para suspirar",
+            "Encantador",
+            "Espirituosos"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Com amor, anônima",
+        "descrição": "",
+        "banner": "banners/Com amor, anônima.jpg",
+        "genero": [
+            "Mexicano",
+            "Dramas",
+            "Filmes teen"
+        ],
+        "style": [
+            "Peculiaridades",
+            "Alto astral",
+            "Românticos"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Lulli",
+        "descrição": "",
+        "banner": "banners/Lulli.jpg",
+        "genero": [
+            "Brasileiro",
+            "Filmes brasileiros",
+            "Comédias brasileiras",
+            "teen"
+        ],
+        "style": [
+            "Alto astral",
+            "Comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "A barraca do beijo",
+        "descrição": "",
+        "banner": "banners/A barraca do beijo.jpg",
+        "genero": [
+            "Filmes teen",
+            "Comédias Românticas",
+            "Filmes baseados em livros"
+        ],
+        "style": [
+            "Para suspirar",
+            "Encantador",
+            "Peculiares"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "O amor move ondas",
+        "descrição": "",
+        "banner": "banners/O amor move ondas.jpg",
+        "genero": [
+            "Polonês",
+            "Filmes teen",
+            "Dramas"
+        ],
+        "style": [
+            "Comoventes",
+            "Intimista",
+            "Românticos"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "O mundo sombrio de sabrina",
+        "descrição": "",
+        "banner": "banners/O mundo sombrio de sabrina.jpg",
+        "genero": [
+            "Séries de fantasia",
+            "Séries baseadas em HQ",
+            "Séries teen"
+        ],
+        "style": [
+            "Arrepiantes",
+            "Sombrios"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Emily em paris",
+        "descrição": "",
+        "banner": "banners/Emily em paris.jpg",
+        "top10": "banners/top10/Emily em paris.jpg",
+        "genero": [
+            "dramas româncitos para a tv",
+            "séries de comédia romântica",
+            "séries dramáticas"
+        ],
+        "style": [
+            "peculiares",
+            "românticos"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Alice em borderland",
+        "descrição": "",
+        "banner": "banners/Alice em borderland.jpg",
+        "top10": "banners/top10/Alice em borderland.jpg",
+        "genero": [
+            "japonês",
+            "séries de ficção científica",
+            "séries baseadas em mangá"
+        ],
+        "style": [
+            "sombrios",
+            "suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Wandinha",
+        "descrição": "",
+        "banner": "banners/Wandinha.jpg",
+        "top10": "banners/top10/Wandinha.jpg",
+        "genero": [
+            "séries de mistério",
+            "séries policiais",
+            "séries de fantasia"
+        ],
+        "style": [
+            "humor seco"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Recruta",
+        "descrição": "",
+        "banner": "banners/Recruta.jpg",
+        "top10": "banners/top10/Recruta.jpg",
+        "genero": [
+            "suspense para a tv",
+            "séries dramáticas",
+            "séries dos EUA"
+        ],
+        "style": [
+            "suspense no ar",
+            "empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "",
+        "descrição": "",
+        "banner": "banners/.jpg",
+        "genero": [
+            ""
+        ],
+        "style": [
+            ""
+        ]
+    },
+    {
+        "tipo": "filme",
+        "nome": "O limite da traição",
+        "descrição": "A íntegra e dócil Grace confessa ter assassinado seu marido, mas sua jovem advogada desconfia de algo e parte em busca da verdade. Um filme de Tyler Perry.",
+        "banner": "banners/O limite da traição.jpg",
+        "large_banner": "banners/O limite da traição_large.webp",
+        "genero": [
+            "Dramas",
+            "Filmes de suspense"
+        ],
+        "style": [
+            "Sinistros",
+            "Suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Sandman",
+        "descrição": "Após anos aprisionado, Morpheus, o Rei dos Sonhos, embarca em uma jornada entre mundos para recuperar o que lhe foi roubado e restaurar seu poder.",
+        "banner": "banners/Sandman.jpg",
+        "large_banner": "banners/Sandman_large.webp",
+        "genero": [
+            "Séries de fantasia",
+            "Séries dramáticas",
+            "Séries dos EUA"
+        ],
+        "style": [
+            "Sombrios"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Class onion, um mistério knives out",
+        "descrição": "Desvende um mistério de assassinato envolvendo um grupo de amigos excêntricos e um detetive brilhante neste filme \"divertido de assistir até mesmo pela segunda vez\", segundo a BBC.",
+        "banner": "banners/Class onion, um mistério knives out.jpg",
+        "genero": [
+            "mistério",
+            "policiais",
+            "comédia"
+        ],
+        "style": [
+            "excêntricos",
+            "irreverentes",
+            "espirituosos"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Manifest",
+        "descrição": "O voo 828 chega a Nova York com passageiros que não sabem que estão desaparecidos há anos e precisam lidar com um misterioso fenômeno que mudará suas vidas.",
+        "banner": "banners/Manifest.jpg",
+        "top10": "banners/top10/Manifest.jpg",
+        "genero": [
+            "séries de mistério",
+            "séries de ficção científica",
+            "séries dramáticas"
+        ],
+        "style": [
+            "realidade alternativa",
+            "suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Cobra kai",
+        "descrição": "Décadas depois da competição que mudou suas vidas, a rivalidade entre Johnny e Daniel está de volta nesta sequência da trilogia Karatê Kid.",
+        "banner": "banners/Cobra kai.jpg",
+        "genero": [
+            "séries dramáticas",
+            "comédia pra tv",
+            "série dos EUA"
+        ],
+        "style": [
+            "empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "O poder e a lei",
+        "descrição": "",
+        "banner": "banners/O poder e a lei.jpg",
+        "genero": [
+            "séries de mistério",
+            "séries policiais",
+            "séries de tribunal"
+        ],
+        "style": [
+            "espirituosos",
+            "suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "O amante de lady chatterley",
+        "descrição": "Infeliz no casamento, a aristocrata Lady Chatterley se envolve em um romance ardente com um funcionário do marido.",
+        "banner": "banners/O amante de lady chatterley.jpg",
+        "genero": [
+            "filmes sobre questões sociais",
+            "obras de época",
+            "filmes baseados em livros"
+        ],
+        "style": [
+            "Calientes",
+            "Intimista",
+            "comoventes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Fidelidade",
+        "descrição": "Um casamento aparentemente feliz começa a desmoronar depois que a fidelidade do marido é questionada e ambos os cônjuges são tentados por outros desejos.",
+        "banner": "banners/Fidelidade.jpg",
+        "genero": [
+            "italiano",
+            "dramas românticos para a tv",
+            "séries baseadas em livro"
+        ],
+        "style": [
+            "Calientes",
+            "Comoventes",
+            "Românticos"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Amor, verdade ou consequência 2",
+        "descrição": "Um novo grupo de casais chegou para testar a força de seus relacionamentos. O problema é que, às vezes, a verdade pode atrapalhar a busca por amor e dinheiro.",
+        "banner": "banners/Amor, verdade ou consequência 2.jpg",
+        "genero": [
+            "espanhol",
+            "reality show de competição",
+            "reality shows"
+        ],
+        "style": [
+            "Escandalosos",
+            "Calientes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "filme",
+        "nome": "Traição e desejo",
+        "descrição": "Duas pessoas entram na vida de um casal bem-sucedido. Será que o casamento resiste à tentação e ao ciúme?",
+        "banner": "banners/Traição e desejo.webp",
+        "genero": [
+            "dramas",
+            "filmes românticos"
+        ],
+        "style": [
+            "Intimista",
+            "Comoventes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Clickbait",
+        "descrição": "Quando Nick Brewer é sequestrado e sua vida passa a depender de um sinistro jogo online, as pessoas próximas a ele correm para descobrir quem está por trás disso.",
+        "banner": "banners/Clickbait.jpg",
+        "genero": [
+            "séries de mistério",
+            "séries policiais",
+            "suspense para a tv"
+        ],
+        "style": [
+            "suspense no ar",
+            "comoventes",
+            "empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Um de nós está mentindo",
+        "descrição": "",
+        "banner": "banners/Um de nós está mentindo.jpg",
+        "top10": "banners/top10/Um de nós está mentindo.jpg",
+        "genero": [
+            "séries de mistério",
+            "séries policiais",
+            "séries baseadas em livros"
+        ],
+        "style": [
+            "suspense no ar"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "série",
+        "nome": "Riverdale",
+        "descrição": "",
+        "banner": "banners/Riverdale.webp",
+        "top10": "banners/top10/Riverdale.jpg",
+        "genero": [
+            "séries de mistério",
+            "séries policiais",
+            "séries baseadas em HQ"
+        ],
+        "style": [
+            "excêntricos",
+            "sombrio",
+            "comoventes"
+        ],
+        "exclusive": false
+    },
+    {
+        "tipo": "série",
+        "nome": "Warrior Nun",
+        "descrição": "Uma jovem acorda no necrotério com superpoderes e descobre que faz parte de uma seita secreta de freiras caçadoras de demônios.",
+        "banner": "banners/Warrior Nun.jpg",
+        "top10": "banners/top10/Warrior Nun.jpg",
+        "genero": [
+            "séries de fantasia",
+            "séries teen",
+            "séries baseadas em HQ"
+        ],
+        "style": [
+            "suspense no ar",
+            "empolgantes"
+        ],
+        "exclusive": true
+    },
+    {
+        "tipo": "",
+        "nome": "",
+        "descrição": "",
+        "banner": "banners/.jpg",
+        "genero": [
+            ""
+        ],
+        "style": [
+            ""
+        ]
+    }
+]
